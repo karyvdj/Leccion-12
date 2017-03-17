@@ -1,4 +1,4 @@
-# GIT :bangbang:
+# GIT 
 ### _Comandos utilizados_
 
  * git init
